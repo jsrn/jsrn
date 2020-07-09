@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner](https://jsrn-public-images.s3.eu-west-2.amazonaws.com/website-banner.png)
 
 <!--
 **jsrn/jsrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
